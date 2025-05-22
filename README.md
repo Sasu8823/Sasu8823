@@ -23,8 +23,7 @@ I’m an AI and systems master developer focused on building intelligent systems
 
 ## 📫 How to reach me
 - GitHub: [@Sasu8823](https://github.com/Sasu8823)
-- LinkedIn: [linkedin.com/in/sasu8823](https://linkedin.com/in/sasu8823) *(replace with actual if available)*
-- Email: *your email here*
+- Email: *gotoworld966@gmail.com*
 
 ## 😄 Pronouns
 He/Him
