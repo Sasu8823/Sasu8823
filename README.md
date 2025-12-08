@@ -23,7 +23,7 @@ I’m an AI and systems master developer focused on building intelligent systems
 
 ## 📫 How to reach me
 - GitHub: [@Sasu8823](https://github.com/Sasu8823)
-
+- mail: tengb443@gmail.com
 ## 😄 Pronouns
 He/Him
 
