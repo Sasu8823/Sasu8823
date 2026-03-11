@@ -143,9 +143,9 @@ My goal is to build **AI products that people actually love using**.
 
 ## 🤝 Let's Connect
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://linkedin.com/in/yourprofile
-* Portfolio: https://yourwebsite.com
+* GitHub: https://github.com/Sasu8823
+* LinkedIn: [藤本大樹](https://www.linkedin.com/in/%E5%A4%A7%E6%A8%B9-%E8%97%A4%E6%9C%AC-9103423b4/)
+* Portfolio: [藤本大樹](https://portfolio-hendras-projects.vercel.app/)
 
 ---
 
