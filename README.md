@@ -144,7 +144,7 @@ My goal is to build **AI products that people actually love using**.
 ## 🤝 Let's Connect
 
 * GitHub: https://github.com/Sasu8823
-* Portfolio: [藤本大樹](https://portfolio-hendras-projects.vercel.app/)
+* Portfolio: [StackOver](https://portfolio-hendras-projects.vercel.app/)
 
 ---
 
