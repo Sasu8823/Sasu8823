@@ -1,151 +1,123 @@
-# 👋 Hi, I'm a Senior AI / ML Engineer
+# 👋 こんにちは、シニアAI/MLエンジニアSTACKOVERです
 
-I design and build **intelligent systems that turn complex ideas into real-world products**.
-My work focuses on **AI agents, machine learning systems, and production-grade AI applications with beautiful user interfaces**.
+複雑なアイデアを現実のプロダクトへと変換する**インテリジェント・システム**の設計・構築を行っています。
+私の専門は、**AIエージェント、機械学習システム、そして優れたユーザーインターフェース（UI）を備えた本番環境レベルのAIアプリケーション**です。
 
-I enjoy combining **advanced AI capabilities with great UX**, making powerful AI tools intuitive and useful for real users.
-
----
-
-## 🚀 What I Specialize In
-
-🧠 **AI Agents & LLM Systems**
-Designing autonomous AI systems capable of reasoning, planning, and interacting with tools and APIs.
-
-⚙️ **Machine Learning & AI Infrastructure**
-Building scalable ML pipelines, training workflows, and high-performance inference systems.
-
-🎨 **AI + Great UI/UX**
-Creating AI-powered products that are not only intelligent but also **beautiful, interactive, and user-friendly**.
-
-☁️ **Production AI Systems**
-Deploying reliable AI services on modern cloud infrastructure.
+**高度なAI機能と素晴らしいUX（ユーザー体験）を融合させること**に情熱を持っており、強力なAIツールを実際のユーザーにとって直感的で有用なものにすることを目指しています。
 
 ---
 
-## 🧠 Core Expertise
+## 🚀 専門分野
 
-**Languages**
+🧠 **AIエージェント & LLMシステム**
+推論、計画立案、ツールやAPIとの連携が可能な自律型AIシステムの設計。
 
+⚙️ **機械学習 & AIインフラストラクチャ**
+スケーラブルなMLパイプライン、トレーニングワークフロー、および高性能な推論システムの構築。
+
+🎨 **AI × 優れたUI/UX**
+知的であるだけでなく、**美しく、インタラクティブで、ユーザーフレンドリー**なAIプロダクトの創造。
+
+☁️ **本番環境向けAIシステム**
+最新のクラウドインフラ上での信頼性の高いAIサービスのデプロイメント。
+
+---
+
+## 🧠 コアスキル
+
+**プログラミング言語**
 Python • TypeScript • SQL
 
-**AI / ML**
-
+**AI / 機械学習**
 PyTorch • TensorFlow • Scikit-learn • Transformers • LangChain • LlamaIndex
 
-**AI Agent Systems**
+**AIエージェントシステム**
+RAGアーキテクチャ • AIエージェント • ツール使用 • マルチエージェントシステム • 自律型ワークフロー
 
-RAG Architectures • AI Agents • Tool Use • Multi-Agent Systems • Autonomous Workflows
+**データ & MLエンジニアリング**
+Pandas • NumPy • Airflow • ベクターデータベース • データパイプライン
 
-**Data & ML Engineering**
+**バックエンド**
+FastAPI • Node.js • GraphQL • REST APIs • マイクロサービス
 
-Pandas • NumPy • Airflow • Vector Databases • Data Pipelines
+**フロントエンド / UI**
+React • Next.js • TailwindCSS • インタラクティブなAIインターフェース
 
-**Backend**
-
-FastAPI • Node.js • GraphQL • REST APIs • Microservices
-
-**Frontend / UI**
-
-React • Next.js • TailwindCSS • Interactive AI Interfaces
-
-**Infrastructure**
-
+**インフラストラクチャ**
 AWS • Docker • Kubernetes • CI/CD • Terraform
 
 ---
 
-## 🔬 What I Like to Build
+## 🔬 取り組んできたプロジェクト例
 
-* Autonomous **AI agent systems**
-* Intelligent **knowledge assistants**
-* **AI-powered SaaS products**
-* Machine learning pipelines
-* Real-time AI applications
-* Data-driven platforms
-* Beautiful and intuitive **AI interfaces**
+### 🤖 自律型AIエージェントフレームワーク
+計画立案、ツール利用、多段階の推論が可能なAIエージェントを構築するためのモジュラーフレームワーク。
 
----
+**主な機能**
+* エージェントメモリ
+* タスク分解
+* ツール統合
+* 自律型ワークフロー
 
-## 🧩 Featured Projects
-
-### 🤖 Autonomous AI Agent Framework
-
-A modular framework for building AI agents capable of planning, tool usage, and multi-step reasoning.
-
-**Features**
-
-* agent memory
-* task decomposition
-* tool integrations
-* autonomous workflows
-
-**Stack**
+**技術スタック**
 Python • LangChain • FastAPI • Vector DB
 
 ---
 
-### 🧠 AI Knowledge Assistant (RAG System)
+### 🧠 AIナレッジアシスタント（RAGシステム）
+大規模なドキュメントコレクションから情報を取得し、推論を行うAIアシスタント。
 
-An AI assistant that retrieves and reasons over large document collections.
+**主な機能**
+* セマンティック検索
+* 対話型検索
+* ナレッジインデキシング
+* 文脈に基づく推論
 
-**Features**
-
-* semantic search
-* conversational retrieval
-* knowledge indexing
-* contextual reasoning
-
-**Stack**
-
+**技術スタック**
 Python • LlamaIndex • OpenAI API • React
 
 ---
 
-### 🎨 AI Productivity Platform
+### 🎨 AI生産性プラットフォーム
+強力なAIワークフローと直感的なUIを組み合わせたフルスタックAIアプリケーション。
 
-A full-stack AI application combining powerful AI workflows with an intuitive UI.
+**主な機能**
+* AI自動化
+* ワークフローオーケストレーション
+* インタラクティブなダッシュボード
 
-**Features**
-
-* AI automation
-* workflow orchestration
-* interactive dashboards
-
-**Stack**
-
+**技術スタック**
 Next.js • TypeScript • FastAPI • AWS
 
 ---
 
-## 📈 Current Focus
+## 📈 現在の_focus_（注力領域）
 
-* Next-generation **AI agents**
-* scalable **RAG systems**
-* multi-agent architectures
-* AI-native product design
-
----
-
-## 🌍 Philosophy
-
-Great AI systems are not just about powerful models.
-
-They require:
-
-* strong engineering
-* great product thinking
-* elegant interfaces
-
-My goal is to build **AI products that people actually love using**.
+* 次世代**AIエージェント**
+* スケーラブルな**RAGシステム**
+* マルチエージェントアーキテクチャ
+* AIネイティブなプロダクトデザイン
 
 ---
 
-## 🤝 Let's Connect
+## 🌍 哲学
+
+優れたAIシステムとは、単に強力なモデルを持つことではありません。
+必要なのは以下の3点です：
+
+* 堅牢なエンジニアリング
+* 優れたプロダクト思考
+* エレガントなインターフェース
+
+私の目標は、**人々が本当に使いたくなるようなAIプロダクト**を構築することです。
+
+---
+
+## 🤝 お問い合わせ・コラボレーション
 
 * GitHub: https://github.com/Sasu8823
-* Portfolio: [StackOver](https://portfolio-hendras-projects.vercel.app/)
+* ポートフォリオ: [StackOver](https://stackover.info/)
 
 ---
 
-⭐ Always open to collaborating on innovative AI projects.
+⭐ イノベーティブなAIプロジェクトにおけるコラボレーションを常に歓迎しています。
